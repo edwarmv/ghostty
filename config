@@ -12,4 +12,4 @@ macos-option-as-alt = true
 
 mouse-hide-while-typing = true
 
-theme = gruvbox-material-soft-dark
+theme = tokyonight-storm
