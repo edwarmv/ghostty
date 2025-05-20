@@ -1,4 +1,5 @@
 font-family = "MonoLisa"
+font-family-italic = "MonoLisa Regular Italic"
 font-feature = calt
 
 window-padding-x = 10
